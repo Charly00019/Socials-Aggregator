@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.6.0",
+    "ioredis": "^5.8.2",
+    "mongoose": "^8.20.1",
+    "oauth-1.0a": "^2.2.6",
+    "twitter-api-v2": "^1.28.0"
+  },
+  "type": "module"
+}

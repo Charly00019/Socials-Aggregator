@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374709527171",
+    "project_id": "socials-forall",
+    "storage_bucket": "socials-forall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374709527171:android:9ee444db5723210d4af1b6",
+        "android_client_info": {
+          "package_name": "com.socials.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSR1Lag1xZnV6haGDUB9xeX107tjg5iIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374709527171:android:54a63405aa079c344af1b6",
+        "android_client_info": {
+          "package_name": "com.socials.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSR1Lag1xZnV6haGDUB9xeX107tjg5iIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
