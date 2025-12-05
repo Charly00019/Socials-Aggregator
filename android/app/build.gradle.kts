@@ -48,4 +48,3 @@ dependencies {
     implementation "androidx.appcompat:appcompat:1.6.1"
 }
 
-apply from: "twitter_login_patch.gradle"
