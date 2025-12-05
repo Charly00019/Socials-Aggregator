@@ -1,3 +1,5 @@
+import org.gradle.api.tasks.Delete
+
 buildscript {
     val kotlinVersion = "1.9.0"  // Must match above
     
