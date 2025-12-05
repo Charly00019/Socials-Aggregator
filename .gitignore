@@ -56,7 +56,7 @@ gradle-wrapper.jar
 /local.properties
 GeneratedPluginRegistrant.java
 .cxx/
-.env/
+.env
 *.iml
 sa.properties
 sa.json
