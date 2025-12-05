@@ -47,3 +47,25 @@ app.*.map.json
 /android/app/release
 android
 node_modules
+
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+.env/
+*.iml
+sa.properties
+sa.json
+UserSocialAccount.json
+userSocialAccountData.json
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
